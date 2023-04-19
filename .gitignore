@@ -141,3 +141,4 @@ cython_debug/
 
 .idea/
 various_scripts/
+elasticsearch_install/

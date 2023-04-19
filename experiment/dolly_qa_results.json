@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What do you call something that has four wheels and that can move?",
+    "answers": "A four-wheel vehicle",
+    "attempt": 1
+  },
+  {
+    "question": "What do you call something that has four wheels and that can move?",
+    "answers": "A car",
+    "attempt": 2
+  },
+  {
+    "question": "What is the name of the security that represents your ownership in a company?",
+    "answers": "A share of stock",
+    "attempt": 1
+  },
+  {
+    "question": "What is the name of the security that represents your ownership in a company?",
+    "answers": "Stock",
+    "attempt": 2
+  },
+  {
+    "question": "What is the title of the person who represent a corporation, lays out its strategic goals?",
+    "answers": "Chief Executive Officer (CEO)",
+    "attempt": 1
+  },
+  {
+    "question": "What is the title of the person who represent a corporation, lays out its strategic goals?",
+    "answers": "Chief Executive Officer (CEO)",
+    "attempt": 2
+  },
+  {
+    "question": "Who is someone who draws pictures for a living?",
+    "answers": "Andy Warhol was a well known American artist who specialized in painting and drawing primarily Campbell's Soup Cans. His work helped to define the art scene in the 1960's and 1970's.",
+    "attempt": 1
+  },
+  {
+    "question": "Who is someone who draws pictures for a living?",
+    "answers": "Margaretumni Apple is someone who draws pictures for a living.",
+    "attempt": 2
+  },
+  {
+    "question": "What is the name of the vehicle that has two wheels?",
+    "answers": "bicycle",
+    "attempt": 1
+  },
+  {
+    "question": "What is the name of the vehicle that has two wheels?",
+    "answers": "bicycle",
+    "attempt": 2
+  },
+  {
+    "question": "What planet is a big rock on which human beings and other mammals live?",
+    "answers": "Mars",
+    "attempt": 1
+  },
+  {
+    "question": "What planet is a big rock on which human beings and other mammals live?",
+    "answers": "Mars",
+    "attempt": 2
+  },
+  {
+    "question": "Current interest rates is two percent per year. If I invest a million, how much my money will grow after a year?",
+    "answers": "$1,000,000*(1.02)^12 = $1,200,000. The money will grow 12% after a year if you invest a million in a two percent interest account",
+    "attempt": 1
+  },
+  {
+    "question": "Current interest rates is two percent per year. If I invest a million, how much my money will grow after a year?",
+    "answers": "$1,000,000*2%/12 = $333,333.33",
+    "attempt": 2
+  },
+  {
+    "question": "What is a financial Instruments that derives its value from its underlying?",
+    "answers": "Derive its value from its underlying means the value of an asset or a service is determined by the amount of underlying asset. An example of underlying asset is currency. Money is a form of currency. The value of money is determined by the amount of currency, in other words, the currency outstanding.",
+    "attempt": 1
+  },
+  {
+    "question": "What is a financial Instruments that derives its value from its underlying?",
+    "answers": "Funds",
+    "attempt": 2
+  },
+  {
+    "question": "Something green that grows on almost all tree branches?",
+    "answers": "Bamboo!",
+    "attempt": 1
+  },
+  {
+    "question": "Something green that grows on almost all tree branches?",
+    "answers": "Beech trees may have a problem because their branches are so thin that they cannot support most plants. However, beechnut tree has a thicker trunk, and its beechnuts grow on almost every tree branch.",
+    "attempt": 2
+  },
+  {
+    "question": "What do we call something on which cars drive?",
+    "answers": "Road",
+    "attempt": 1
+  },
+  {
+    "question": "What do we call something on which cars drive?",
+    "answers": "Parking lot",
+    "attempt": 2
+  },
+  {
+    "question": "What do we call a vehicle that can fly in the air?",
+    "answers": "A Flyer orFlyer is a type of vehicle that can fly in the air. It does not need to have an engine, it gets energy to fly from cans or tubes that are loaded with air. There are various designs of Flyers, but they all have a propulsion unit that makes them move forward, and wings that provide lift and help them fly.",
+    "attempt": 1
+  },
+  {
+    "question": "What do we call a vehicle that can fly in the air?",
+    "answers": "A flying car is a car that can fly in the air. Although popular in science-fiction movies, we still don\u2019t have flying cars in real life. Some experts predict that we will have flying cars by the end of this decade as new technologies make them both affordable and safer.",
+    "attempt": 2
+  },
+  {
+    "question": "What do birds use to fly?",
+    "answers": "Birds fly because they have flapping wings, like other animals such as bats and people. However, unlike other animals, birds strengthen their wings with keratin, find that their bodies are light enough to fly with aerodynamic shapes, and they can fit more wings than their bodyweight into the same space. These properties came about because over a long period of time different species of birds have improved on each other's wings, through natural selection.",
+    "attempt": 1
+  },
+  {
+    "question": "What do birds use to fly?",
+    "answers": "Birds fly because they have wings and use the energy from flying to themselves power their flight muscles. The only bird that does not have wings is the ostrich.",
+    "attempt": 2
+  }
+]
